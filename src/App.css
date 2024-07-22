@@ -1,0 +1,36 @@
+.footer{
+    padding: 20px 0;
+    top: 273px;
+    position: relative;
+  }
+  .wordsCount{
+    flex: 50%;
+    background-color: steelblue;
+    border-radius: 10px;
+    color: white;
+    margin: 3px;
+  }
+  
+  .lettersCount{
+    flex: 50%;
+    background-color: skyblue;
+    border-radius: 10px;
+    margin: 3px;
+  }
+  
+  .previewAndReadTime{
+    border: 2px solid skyblue;
+    border-radius: 10px;
+  }
+  
+  #underLine{
+    width: 90px;
+    height: 7px;
+    background-color: rgb(255, 81, 0);
+    border-radius: 5px;
+  }
+  
+  .pund{
+    width: max-content;
+    margin: auto;
+  }
